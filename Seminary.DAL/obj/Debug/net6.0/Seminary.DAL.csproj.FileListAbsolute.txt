@@ -1,0 +1,15 @@
+Y:\Groups\Group_2\בסה  מיכל\dotnet\SeminaryProject\Seminary.DAL\obj\Debug\net6.0\Seminary.DAL.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\בסה  מיכל\dotnet\SeminaryProject\Seminary.DAL\obj\Debug\net6.0\Seminary.DAL.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\בסה  מיכל\dotnet\SeminaryProject\Seminary.DAL\obj\Debug\net6.0\Seminary.DAL.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\בסה  מיכל\dotnet\SeminaryProject\Seminary.DAL\obj\Debug\net6.0\Seminary.DAL.AssemblyInfo.cs
+Y:\Groups\Group_2\בסה  מיכל\dotnet\SeminaryProject\Seminary.DAL\obj\Debug\net6.0\Seminary.DAL.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\בסה  מיכל\dotnet\SeminaryProject\Seminary.DAL\bin\Debug\net6.0\Seminary.DAL.deps.json
+Y:\Groups\Group_2\בסה  מיכל\dotnet\SeminaryProject\Seminary.DAL\bin\Debug\net6.0\Seminary.DAL.dll
+Y:\Groups\Group_2\בסה  מיכל\dotnet\SeminaryProject\Seminary.DAL\bin\Debug\net6.0\Seminary.DAL.pdb
+Y:\Groups\Group_2\בסה  מיכל\dotnet\SeminaryProject\Seminary.DAL\bin\Debug\net6.0\Seminary.Model.dll
+Y:\Groups\Group_2\בסה  מיכל\dotnet\SeminaryProject\Seminary.DAL\bin\Debug\net6.0\Seminary.Model.pdb
+Y:\Groups\Group_2\בסה  מיכל\dotnet\SeminaryProject\Seminary.DAL\obj\Debug\net6.0\Seminary.DAL.csproj.CopyComplete
+Y:\Groups\Group_2\בסה  מיכל\dotnet\SeminaryProject\Seminary.DAL\obj\Debug\net6.0\Seminary.DAL.dll
+Y:\Groups\Group_2\בסה  מיכל\dotnet\SeminaryProject\Seminary.DAL\obj\Debug\net6.0\refint\Seminary.DAL.dll
+Y:\Groups\Group_2\בסה  מיכל\dotnet\SeminaryProject\Seminary.DAL\obj\Debug\net6.0\Seminary.DAL.pdb
+Y:\Groups\Group_2\בסה  מיכל\dotnet\SeminaryProject\Seminary.DAL\obj\Debug\net6.0\ref\Seminary.DAL.dll

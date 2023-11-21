@@ -1,0 +1,14 @@
+Y:\Groups\Group_2\בסה  מיכל\dotnet\SeminaryProject\Seminary.Model\obj\Debug\net6.0\Seminary.Model.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\בסה  מיכל\dotnet\SeminaryProject\Seminary.Model\obj\Debug\net6.0\Seminary.Model.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\בסה  מיכל\dotnet\SeminaryProject\Seminary.Model\obj\Debug\net6.0\Seminary.Model.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\בסה  מיכל\dotnet\SeminaryProject\Seminary.Model\obj\Debug\net6.0\Seminary.Model.AssemblyInfo.cs
+Y:\Groups\Group_2\בסה  מיכל\dotnet\SeminaryProject\Seminary.Model\obj\Debug\net6.0\Seminary.Model.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\בסה  מיכל\dotnet\SeminaryProject\Seminary.Model\bin\Debug\net6.0\Seminary.Model.deps.json
+Y:\Groups\Group_2\בסה  מיכל\dotnet\SeminaryProject\Seminary.Model\bin\Debug\net6.0\Seminary.Model.runtimeconfig.json
+Y:\Groups\Group_2\בסה  מיכל\dotnet\SeminaryProject\Seminary.Model\bin\Debug\net6.0\Seminary.Model.dll
+Y:\Groups\Group_2\בסה  מיכל\dotnet\SeminaryProject\Seminary.Model\bin\Debug\net6.0\Seminary.Model.pdb
+Y:\Groups\Group_2\בסה  מיכל\dotnet\SeminaryProject\Seminary.Model\obj\Debug\net6.0\Seminary.Model.dll
+Y:\Groups\Group_2\בסה  מיכל\dotnet\SeminaryProject\Seminary.Model\obj\Debug\net6.0\refint\Seminary.Model.dll
+Y:\Groups\Group_2\בסה  מיכל\dotnet\SeminaryProject\Seminary.Model\obj\Debug\net6.0\Seminary.Model.pdb
+Y:\Groups\Group_2\בסה  מיכל\dotnet\SeminaryProject\Seminary.Model\obj\Debug\net6.0\Seminary.Model.genruntimeconfig.cache
+Y:\Groups\Group_2\בסה  מיכל\dotnet\SeminaryProject\Seminary.Model\obj\Debug\net6.0\ref\Seminary.Model.dll
